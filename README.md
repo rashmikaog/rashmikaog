@@ -1,5 +1,5 @@
 <a href="https://github.com/rashmikaog">
-  <img src="https://i.postimg.cc/PfVcVJ1W/Chromecast.jpg" width="100%" alt="Synaptara Banner"/>
+  <img src="https://i.postimg.cc/ydtGdr1j/download-(1).jpg" width="100%" alt="Synaptara Banner"/>
 </a>
 
 <div align="center">
