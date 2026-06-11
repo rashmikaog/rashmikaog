@@ -1,5 +1,5 @@
-<a href="https://github.com/Synaptara">
-  <img src="https://i.postimg.cc/vHsQ0wRw/Gemini-Generated-Image-yc8ulhyc8ulhyc8u-(1).png" width="100%" alt="Synaptara Banner"/>
+<a href="https://github.com/rashmikaog">
+  <img src="https://i.postimg.cc/gjDCr21B/Black-and-Grey-Minimalist-Typographic-Metallic-Advertising-Banner.png"/>
 </a>
 
 <div align="center">
