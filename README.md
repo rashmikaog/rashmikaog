@@ -18,18 +18,6 @@
 A Software Engineering and Data Science student from Sri Lanka who enjoys building apps, games and anything that turns ideas into something real. I like exploring new technologies, learning as I go and improving my skills through projects that actually challenge me.
   <br><br>
 
-<img src="https://i.postimg.cc/dVkFKpH4/1000021660-removebg-preview.png" width="170" align="right" style="margin-left: 15px;">
-  
-  <h3>Top Projects (built to avoid manual labor)</h3>
-  <a href="https://github.com/Synaptara/File-ghost"><img src="https://img.shields.io/badge/FileGhost-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; Secure file sharing, because some code needs to self-destruct gracefully.<br>
-  <a href="https://github.com/Synaptara/Gen-Ghost_v1"><img src="https://img.shields.io/badge/Gen%20Ghost%20v1-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; A Discord bot that manages my server better than Me<br>
-  <a href="https://github.com/Synaptara/QNDOCS"><img src="https://img.shields.io/badge/Qn%20Docs-000000?style=for-the-badge&logo=github&logoColor=white" valign="middle"></a>&nbsp; RAG-based AI to read text files for me, because reading is hard.
-
-  
-  <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
-</div>
-
-
 <br clear="left"/>
 <br clear="right"/>
 
