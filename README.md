@@ -11,8 +11,8 @@
 </div>
 <br>
 <div align="justify">
-  <h3>Hey there! I'm Rashmika</h3>
-  I'm a Software Engineering student from Sri Lanka with a passion for building practical software that solves real problems. By day, I'm writing Java and wrangling databases. By night, I'm either building a 2D game with LibGDX or producing R&B music on FL Studio Mobile. When I'm not doing either, you'll find me gaming or listening to Yung Kai and Wave to Earth on repeat.
+  <h3>Bonjour ! I'm Rashmika</h3>
+A Software Engineering and Data Science student from Sri Lanka who enjoys building apps, games and anything that turns ideas into something real. I like exploring new technologies, learning as I go and improving my skills through projects that actually challenge me.
   <br><br>
 
   <hr style="border: 1px solid #333; margin-top: 10px; margin-bottom: 10px;">
