@@ -36,12 +36,15 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
 </div>
 
 <br>
-
 > Whether it's discussing technology, collaborating on a project, or exchanging ideas, I'm always happy to connect with fellow developers. I enjoy learning new things, sharing knowledge and exploring creative solutions to interesting problems. Feel free to reach out !
-
-
 <br clear="right"/>
 <br>
+
+<div align="center">
+  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
+  
+  <br>
+</div>
 
 <div align="center">
   <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
