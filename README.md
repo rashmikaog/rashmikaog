@@ -35,7 +35,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/SE_Principles-000000?style=flat-square&logoColor=white"/>
       <br/><br/>
-      Agricultural equipment leasing platform. Connects equipment owners with farmers — handles listings, bookings, and rental management end to end.
+      Agricultural equipment leasing platform. Connects equipment owners with farmers, handles listings, bookings and rental management end to end.
       <br/><br/>
     </td>
     <td width="50%" valign="top">
@@ -45,7 +45,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white"/>
       <img src="https://img.shields.io/badge/MVC-000000?style=flat-square&logoColor=white"/>
       <br/><br/>
-      Native Android app for device repair management. Users can book repairs, track progress, browse services, and manage their profile — all with local data storage.
+      Native Android app for device repair management. Users can book repairs, track progress, browse services and manage their profile, all with local data storage.
       <br/>
     </td>
   </tr>
@@ -56,7 +56,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <img src="https://img.shields.io/badge/OOP-000000?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/File_I/O-000000?style=flat-square&logoColor=white"/>
       <br/><br/>
-      Desktop bookstore management system. Role-based access for managers and cashiers, with full inventory tracking, supplier management, and sales reporting
+      Desktop bookstore management system. Role-based access for managers and cashiers, with full inventory tracking, supplier management and sales reporting
       <br/><br/>
     </td>
     <td width="50%" valign="top">
@@ -65,7 +65,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <img src="https://img.shields.io/badge/File_Handling-000000?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/Modular_Design-000000?style=flat-square&logoColor=white"/>
       <br/><br/>
-      Menu-driven ordering application built in C++. Supports login auth, product search, furniture management, and order placement through a modular architecture.
+      Menu-driven ordering application built in C++. Supports login auth, product search, furniture management and order placement through a modular architecture.
       <br/>
     </td>
   </tr>
@@ -76,7 +76,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <img src="https://img.shields.io/badge/ER_Modeling-000000?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/Normalization-000000?style=flat-square&logoColor=white"/>
       <br/><br/>
-      Relational database for city-level service management. Covers citizens, utility accounts, complaints, emergency incidents, municipal agencies, and public services.
+      Relational database for city-level service management. Covers citizens, utility accounts, complaints, emergency incidents, municipal agencies and public services.
       <br/><br/>
     </td>
     <td width="50%" valign="top">
@@ -85,7 +85,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <img src="https://img.shields.io/badge/LibGDX-000000?style=flat-square&logoColor=white"/>
       <img src="https://img.shields.io/badge/Game_Dev-000000?style=flat-square&logoColor=white"/>
       <br/><br/>
-      2D Java game currently in active development. Features a custom interactive menu system, game state management, sprite animation, and scalable game architecture.
+      2D Java game currently in active development. Features a custom interactive menu system, game state management, sprite animation and scalable game architecture.
       <br/>
     </td>
   </tr>
