@@ -46,13 +46,10 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
   <br>
 </div>
 
-<div align="center">
-  <h2>Projects</h2>
-</div>
 <table align="center">
   <tr>
     <td width="50%" valign="top">
-      <h3><a href="https://github.com/rashmikaog">ArgiLease</a></h3>
+      <h3>ArgiLease</h3>
       <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
       <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white"/>
       <img src="https://img.shields.io/badge/SE_Principles-000000?style=flat-square&logoColor=white"/>
