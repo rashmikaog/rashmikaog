@@ -119,9 +119,9 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <strong>Languages</strong>
     </td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=java&theme=dark" height="40"/>
-      <img src="https://skillicons.dev/icons?i=cpp&theme=dark" height="40"/>
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40"/>
+      <img src="https://img.shields.io/badge/Java-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/C++-000000?style=for-the-badge&logo=cplusplus&logoColor=white">
+      <img src="https://img.shields.io/badge/SQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -129,8 +129,10 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <strong>Mobile & Desktop</strong>
     </td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=android&theme=dark" height="40"/>
-      <img src="https://skillicons.dev/icons?i=androidstudio&theme=dark" height="40"/>
+      <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white">
+      <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white">
+      <img src="https://img.shields.io/badge/Java_Swing-000000?style=for-the-badge&logo=openjdk&logoColor=white">
+      <img src="https://img.shields.io/badge/LibGDX-000000?style=for-the-badge&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -138,20 +140,20 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <strong>Database</strong>
     </td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=mysql&theme=dark" height="40"/>
-      <img src="https://skillicons.dev/icons?i=sqlite&theme=dark" height="40"/>
+      <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
+      <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white">
     </td>
   </tr>
   <tr>
     <td align="right" valign="middle" style="padding-right: 20px;">
-      <strong>Tools</strong>
+      <strong>Tools & DevOps</strong>
     </td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=git&theme=dark" height="40"/>
-      <img src="https://skillicons.dev/icons?i=github&theme=dark" height="40"/>
-      <img src="https://skillicons.dev/icons?i=idea&theme=dark" height="40"/>
-      <img src="https://skillicons.dev/icons?i=vscode&theme=dark" height="40"/>
-      <img src="https://skillicons.dev/icons?i=vmware&theme=dark" height="40"/>
+      <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
+      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
+      <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
+      <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
+      <img src="https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=white">
     </td>
   </tr>
   <tr>
@@ -159,8 +161,9 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <strong>Learning</strong>
     </td>
     <td align="left" valign="middle">
-      <img src="https://skillicons.dev/icons?i=tensorflow&theme=dark" height="40"/>
-      <img src="https://skillicons.dev/icons?i=python&theme=dark" height="40"/>
+      <img src="https://img.shields.io/badge/Data_Science-000000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/Machine_Learning-000000?style=for-the-badge&logoColor=white">
+      <img src="https://img.shields.io/badge/Software_Architecture-000000?style=for-the-badge&logoColor=white">
     </td>
   </tr>
 </table>
