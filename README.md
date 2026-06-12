@@ -41,7 +41,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
 <br>
 
 <div align="center">
-  <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
+  <img src="https://i.postimg.cc/SRKw14HL/PROJETS.png" width="100%">
   
   <br>
 </div>
