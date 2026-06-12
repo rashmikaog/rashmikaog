@@ -47,6 +47,67 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
 </div>
 
 <div align="center">
+  <h2>Projects</h2>
+</div>
+<table align="center">
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rashmikaog">ArgiLease</a></h3>
+      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MySQL-000000?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SE_Principles-000000?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      Agricultural equipment leasing platform. Connects equipment owners with farmers — handles listings, bookings, and rental management end to end.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rashmikaog">TechCare Services</a></h3>
+      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Android-000000?style=flat-square&logo=android&logoColor=white"/>
+      <img src="https://img.shields.io/badge/SQLite-000000?style=flat-square&logo=sqlite&logoColor=white"/>
+      <img src="https://img.shields.io/badge/MVC-000000?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      Native Android app for device repair management. Users can book repairs, track progress, browse services, and manage their profile — all with local data storage.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rashmikaog">The Little Book Haven</a></h3>
+      <img src="https://img.shields.io/badge/Java_Swing-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/OOP-000000?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/File_I/O-000000?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      Desktop bookstore management system. Role-based access for managers and cashiers, with full inventory tracking, supplier management, and sales reporting.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rashmikaog">Furniture Ordering System</a></h3>
+      <img src="https://img.shields.io/badge/C++-000000?style=flat-square&logo=cplusplus&logoColor=white"/>
+      <img src="https://img.shields.io/badge/File_Handling-000000?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Modular_Design-000000?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      Menu-driven ordering application built in C++. Supports login auth, product search, furniture management, and order placement through a modular architecture.
+    </td>
+  </tr>
+  <tr>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rashmikaog">Municipal Service Database</a></h3>
+      <img src="https://img.shields.io/badge/SQL-000000?style=flat-square&logo=mysql&logoColor=white"/>
+      <img src="https://img.shields.io/badge/ER_Modeling-000000?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Normalization-000000?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      Relational database for city-level service management. Covers citizens, utility accounts, complaints, emergency incidents, municipal agencies, and public services.
+    </td>
+    <td width="50%" valign="top">
+      <h3><a href="https://github.com/rashmikaog">LibGDX Game&nbsp; <sup>WIP</sup></a></h3>
+      <img src="https://img.shields.io/badge/Java-000000?style=flat-square&logo=openjdk&logoColor=white"/>
+      <img src="https://img.shields.io/badge/LibGDX-000000?style=flat-square&logoColor=white"/>
+      <img src="https://img.shields.io/badge/Game_Dev-000000?style=flat-square&logoColor=white"/>
+      <br/><br/>
+      2D Java game currently in active development. Features a custom interactive menu system, game state management, sprite animation, and scalable game architecture.
+    </td>
+  </tr>
+</table>
+
+<div align="center">
   <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
   
   <br>
