@@ -103,7 +103,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
   <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmikaog&bg_color=0d1117&color=ffffff&line=444444&point=ffffff&area=true&hide_border=true&area_color=222222" width="100%"/>
 </div>
 
-<br><br>
+<br/>
 
 <div align="center">
   <img src="https://i.postimg.cc/8PmQWYw9/Whats-App-Image-2026-03-05-at-11-05-19-PM-(1).jpg" width="100%">
