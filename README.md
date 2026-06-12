@@ -90,6 +90,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
     </td>
   </tr>
 </table>
+<br/>
 
 <div align="center">
   <img src="https://i.postimg.cc/rsR3Knzs/Whats-App-Image-2026-03-05-at-11-05-19-PM.jpg" width="100%">
