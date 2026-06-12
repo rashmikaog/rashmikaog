@@ -76,7 +76,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <img src="https://img.shields.io/badge/File_I/O-000000?style=flat-square&logoColor=white"/>
       <br/><br/>
       Desktop bookstore management system. Role-based access for managers and cashiers, with full inventory tracking, supplier management, and sales reporting
-      <br/>
+      <br/><br/><br/>
     </td>
     <td width="50%" valign="top">
       <h3>Furniture Ordering System</h3>
@@ -96,7 +96,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <img src="https://img.shields.io/badge/Normalization-000000?style=flat-square&logoColor=white"/>
       <br/><br/>
       Relational database for city-level service management. Covers citizens, utility accounts, complaints, emergency incidents, municipal agencies, and public services.
-      <br/>
+      <br/><br/><br/>
     </td>
     <td width="50%" valign="top">
       <h3>LibGDX Game</h3>
