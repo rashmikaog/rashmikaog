@@ -37,7 +37,10 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
 
 <br>
 
-> Every project starts with "this should be easy and ends with a deeper understanding of both programming and suffering.
+> Whether it's discussing technology, collaborating on a project, or exchanging ideas, I'm always happy to connect with fellow developers. I enjoy learning new things, sharing knowledge, and exploring creative solutions to interesting problems.
+
+> Feel free to reach out :))))
+
 
 <br clear="right"/>
 <br>
