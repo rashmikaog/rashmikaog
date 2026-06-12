@@ -99,9 +99,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
 </div>
 
 <div align="center">
-  <p align="center">
-  <img src="https://github.com/rashmikaog/rashmikaog/blob/output/github-snake-dark.svg" width="100%">
-</p>
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=rashmikaog&bg_color=0d1117&color=ffffff&line=444444&point=ffffff&area=true&hide_border=true&area_color=222222" width="100%"/>
 </div>
 
 <br><br>
