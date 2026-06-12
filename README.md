@@ -100,7 +100,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
 
 <div align="center">
   <p align="center">
-  <img src="https://github.com/Synaptara/Synaptara/blob/output/github-snake-dark.svg" width="100%">
+  <img src="https://github.com/rashmikaog/rashmikaog/blob/output/github-snake-dark.svg" width="100%">
 </p>
 </div>
 
