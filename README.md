@@ -37,9 +37,9 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
 
 <br>
 
-Code is never finished. It only becomes slightly less terrible over time.
+> I enjoy turning ideas into applications and caffeine into code.
 
-> Every commit I make is essentially just a small, desperate apology to my future self. Someday I will return to this codebase, look at the spaghetti I've written, and wonder who let me anywhere near a keyboard.
+> Most of my projects start with confidence and end with me wondering why it finally works.
 
 <br clear="right"/>
 <br>
