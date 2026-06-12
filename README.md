@@ -42,7 +42,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
 
 <div align="center">
   <img src="https://i.postimg.cc/SRKw14HL/PROJETS.png" width="100%">
-  
+  <br>
   <br>
 </div>
 
