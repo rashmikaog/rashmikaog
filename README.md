@@ -37,9 +37,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
 
 <br>
 
-> I enjoy turning ideas into applications and caffeine into code.
-
-> Most of my projects start with confidence and end with me wondering why it finally works.
+> Every project starts with "this should be easy and ends with a deeper understanding of both programming and suffering.
 
 <br clear="right"/>
 <br>
