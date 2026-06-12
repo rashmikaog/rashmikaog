@@ -55,7 +55,7 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <img src="https://img.shields.io/badge/SE_Principles-000000?style=flat-square&logoColor=white"/>
       <br/><br/>
       Agricultural equipment leasing platform. Connects equipment owners with farmers — handles listings, bookings, and rental management end to end.
-      <br/>
+      <br/><br/><br/>
     </td>
     <td width="50%" valign="top">
       <h3>TechCare Services</h3>
