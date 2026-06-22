@@ -129,10 +129,10 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <strong>Mobile & Desktop</strong>
     </td>
     <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white">
-      <img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white">
-      <img src="https://img.shields.io/badge/Java_Swing-000000?style=for-the-badge&logo=openjdk&logoColor=white">
-      <img src="https://img.shields.io/badge/LibGDX-000000?style=for-the-badge&logoColor=white">
+      <a href="https://www.android.com"><img src="https://img.shields.io/badge/Android-000000?style=for-the-badge&logo=android&logoColor=white"></a>
+      <a href="https://developer.android.com/studio"><img src="https://img.shields.io/badge/Android_Studio-000000?style=for-the-badge&logo=androidstudio&logoColor=white"></a>
+      <a href="https://docs.oracle.com/javase/8/docs/technotes/guides/swing"><img src="https://img.shields.io/badge/Java_Swing-000000?style=for-the-badge&logo=openjdk&logoColor=white"></a>
+      <a href="https://libgdx.com"><img src="https://img.shields.io/badge/LibGDX-000000?style=for-the-badge&logoColor=white"></a>
     </td>
   </tr>
   <tr>
@@ -140,8 +140,8 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <strong>Database</strong>
     </td>
     <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white">
-      <img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white">
+      <a href="https://www.mysql.com"><img src="https://img.shields.io/badge/MySQL-000000?style=for-the-badge&logo=mysql&logoColor=white"></a>
+      <a href="https://www.sqlite.org"><img src="https://img.shields.io/badge/SQLite-000000?style=for-the-badge&logo=sqlite&logoColor=white"></a>
     </td>
   </tr>
   <tr>
@@ -149,11 +149,11 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
       <strong>Tools & DevOps</strong>
     </td>
     <td align="left" valign="middle">
-      <img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white">
-      <img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white">
-      <img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white">
-      <img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white">
-      <img src="https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=white">
+      <a href="https://git-scm.com"><img src="https://img.shields.io/badge/Git-000000?style=for-the-badge&logo=git&logoColor=white"></a>
+      <a href="https://github.com/kmrashh07"><img src="https://img.shields.io/badge/GitHub-000000?style=for-the-badge&logo=github&logoColor=white"></a>
+      <a href="https://www.jetbrains.com/idea"><img src="https://img.shields.io/badge/IntelliJ-000000?style=for-the-badge&logo=intellijidea&logoColor=white"></a>
+      <a href="https://code.visualstudio.com"><img src="https://img.shields.io/badge/VS_Code-000000?style=for-the-badge&logo=visualstudiocode&logoColor=white"></a>
+      <a href="https://www.vmware.com"><img src="https://img.shields.io/badge/VMware-000000?style=for-the-badge&logo=vmware&logoColor=white"></a>
     </td>
   </tr>
   <tr>
@@ -167,7 +167,6 @@ A Software Engineering and Data Science student from Sri Lanka who enjoys buildi
     </td>
   </tr>
 </table>
-
 </div>
 <br>
 
